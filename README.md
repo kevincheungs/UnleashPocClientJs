@@ -1,10 +1,12 @@
 # UnleashPocClientJs
 
-To setup proxy server (client SDK connects to proxy, which connects to main Unleash tool)
+** To setup proxy server (client SDK connects to proxy, which connects to main Unleash tool)
+
+Need to have this setup for client SDK to work. Need to add auth key here from Unleash tool.
 
 1. node src/proxyServer.js
 
-To Run the Client side SDK
+** To Run the Client side SDK
 
 Uses webpack
 https://webpack.js.org/guides/installation/
