@@ -15,6 +15,7 @@
     "webpack-cli": "^5.0.1"
   },
   "dependencies": {
+    "@unleash/proxy": "^0.13.0",
     "lodash": "^4.17.21",
     "unleash-proxy-client": "^2.3.0"
   }
